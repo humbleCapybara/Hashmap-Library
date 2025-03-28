@@ -58,9 +58,9 @@ gcc main.c library.c -o library
 
 
 ## Future Enhancements (Ideas 💡)
---> Borrow & Return System – Track issued books.
---> User Accounts – Implement a login system.
---> GUI Interface – A simple graphical frontend for better usability.
+--> Borrow & Return System – Track issued books. <br>
+--> User Accounts – Implement a login system. <br>
+--> GUI Interface – A simple graphical frontend for better usability. <br>
 
 ## Why This Project?
 This project demonstrates data structures (linked lists & hashmaps), file handling, and modular programming in C. It's designed to be lightweight, efficient, and extendable.
@@ -68,14 +68,12 @@ This project demonstrates data structures (linked lists & hashmaps), file handli
 # Open-Source License 🚀
 This project is open-source under the MIT License. That means you are free to use, modify, and distribute this software however you like!
 
-Feel free to:
-✅ Use it in your own projects
-✅ Modify it to fit your needs
-✅ Share it with others
+Feel free to:<br>
+✅ Use it in your own projects<br>
+✅ Modify it to fit your needs<br>
+✅ Share it with others<br>
 
-Just make sure to include the original license and credit where due.
+Just make sure to include the original license and credit where due.<br>
 
-Legal Stuff:
+# Legal Stuff
 This software is provided "as is," without any guarantees. I’m not responsible for any issues that may arise from using it. Use at your own risk!
-
-Happy coding! 💻✨
