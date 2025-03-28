@@ -24,7 +24,7 @@ This is a **Library Management System** written in C that allows users to manage
 ## 🛠️ Compilation & Execution (Linux/WSL)
 ### 🔨 Compile the program:
 ```bash
-gcc library.c main.c cases.c -o guilib `pkg-config --cflags --libs gtk+-3.0`
+gcc library.c main.c cases.c -o library `pkg-config --cflags --libs gtk+-3.0`
 ```
 ## Run the Program
 ```
